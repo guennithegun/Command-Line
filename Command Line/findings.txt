@@ -1,0 +1,5 @@
+NOTES on exploration.py:
+there are just a couple of schools being part of a juvenile justice facility oder youth prison. 8 out of 1000. bin these schools overall 598 pupils while most of them are male. 52 schools are  magnet schools. here male and female pupils are on the same level.
+
+NOTES on enrollment.py:
+calculating the percentage of by gender and races on total enrollments. therefore I used dictionaries to store the values and printing them.
